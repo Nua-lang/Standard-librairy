@@ -14,4 +14,6 @@ Modules in the stdlib can be used as a reference in nua programs using the ```lo
             print(string.format("elapsed time: %.2f\n", os.clock() - x))
 ```
 
+Then run it using the following command: ```nuac -e time.nua```
+
 
